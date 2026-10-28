@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Bhavesh Bhokare 👋
 
-<!--
-**bhavesh-bhokare/Bhavesh-Bhokare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Artificial Intelligence and Machine Learning Student
 
-Here are some ideas to get you started:
+I'm an aspiring AI/ML and Data Analytics professional interested in building practical, technology-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎯 Interested in Artificial Intelligence, Machine Learning, and Data Analytics
+- 💻 Learning and working with Python, SQL, and data analysis tools
+- 🧠 Developing AI-based academic and personal projects
+- 🌱 Continuously improving my technical and problem-solving skills
+
+### 🛠️ Technical Skills
+- **Programming:** Python, SQL, C
+- **Data Analytics:** NumPy, Pandas, Data Analysis
+- **AI/ML:** Artificial Intelligence, Machine Learning fundamentals
+- **Web Technologies:** HTML, CSS, TypeScript, Next.js
+
+### 📌 Featured Projects
+- **AI Startup Co-Pilot** — An AI-powered startup idea evaluation and decision-support project.
+- **AI-Based Online Exam Proctoring System** — An academic project exploring AI-assisted online examination monitoring.
+
+### 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/bhavesh-bhokare
+- GitHub: https://github.com/bhavesh-bhokare
+
+---
+*Learning, building, and improving one project at a time.*
